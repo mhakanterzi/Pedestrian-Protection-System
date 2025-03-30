@@ -2,4 +2,4 @@
 
 ### Circuit Diagram
 
-![alt text](Pedestarian-Protection-System-1.png)
+![curcit diagram](Pedestarian-Protection-System.png)
